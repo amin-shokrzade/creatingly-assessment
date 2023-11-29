@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1701214184 source:c:\creatingly\image_manipulation\main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	"algorithm.h"
+
+1701130293 source:c:\creatingly\image_manipulation\headers\bitmap.cpp
+	"bitmap.h"
+
+1701130293 c:\creatingly\image_manipulation\headers\bitmap.h
+	<iostream>
+	<string>
+	"bitmapdata.h"
+
+1701117692 c:\creatingly\image_manipulation\headers\bitmapdata.h
+	"fileio.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1701117818 c:\creatingly\image_manipulation\headers\fileio.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<fstream>
+
+1701117692 source:c:\creatingly\image_manipulation\headers\bitmapdata.cpp
+	"bitmapdata.h"
+
+1701128662 source:c:\creatingly\image_manipulation\headers\filleio.cpp
+	"fileio.h"
+
+1701134009 c:\creatingly\image_manipulation\headers\algorithm.h
+	"bitmap.h"
+	<string>
+	<fstream>
+	<iostream>
+	<regex>
+	<dirent.h>
+	<vector>
+	<thread>
+
+1701215247 source:c:\creatingly\image_manipulation\bitmap.cpp
+	"bitmap.h"
+
+1701215247 c:\creatingly\image_manipulation\bitmap.h
+	<iostream>
+	<string>
+	"bitmapdata.h"
+
+1701215247 c:\creatingly\image_manipulation\bitmapdata.h
+	"fileio.h"
+	<stdio.h>
+	<string.h>
+	<math.h>
+
+1701215247 c:\creatingly\image_manipulation\fileio.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<fstream>
+
+1701215247 source:c:\creatingly\image_manipulation\bitmapdata.cpp
+	"bitmapdata.h"
+
+1701215247 source:c:\creatingly\image_manipulation\filleio.cpp
+	"fileio.h"
+
+1701215247 c:\creatingly\image_manipulation\algorithm.h
+	"bmpbuffer.h"
+	"bitmap.h"
+	"utilities.h"
+	<string>
+	<fstream>
+	<iostream>
+	<vector>
+	<thread>
+	<chrono>
+	<mutex>
+
+1701215247 source:c:\creatingly\image_manipulation\algorithm.cpp
+	"algorithm.h"
+
+1701215247 c:\creatingly\image_manipulation\bmpbuffer.h
+	"bitmap.h"
+	<vector>
+	<mutex>
+	<thread>
+
+1701215247 c:\creatingly\image_manipulation\utilities.h
+	<string>
+	<regex>
+	<dirent.h>
+
+1701215247 source:c:\creatingly\image_manipulation\bmpbuffer.cpp
+	"bmpbuffer.h"
+
+1701215247 source:c:\creatingly\image_manipulation\utilities.cpp
+	"utilities.h"
+
