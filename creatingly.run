@@ -1,0 +1,4 @@
+InputPath: C:\bmp
+OutputPath: C:\Converted
+Algorithm: rgb2gray
+SaveResults: Yes
